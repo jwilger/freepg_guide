@@ -39,3 +39,5 @@ your `$PATH`.)
 [Rake]: http://rake.rubyforge.org
 
 [Ruby]: http://ruby-lang.org
+
+[MacTex]: http://www.tug.org/mactex/index.html
