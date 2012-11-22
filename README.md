@@ -22,7 +22,7 @@ The updating and printing is managed by [Rake][Rake], so both it and
 
 To generate the guide in all supported formats, run `rake all`.
 
-### PDF Version ### ###
+### PDF Version ###
 
 The conversion from Markdown to PDF is done by
 [pandoc](http://johnmacfarlane.net/pandoc/).
