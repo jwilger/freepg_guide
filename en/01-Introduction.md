@@ -17,6 +17,15 @@ and---at the same time---greatly simplifies the rules such that a brand
 new player can join the game and know all they need within just a few 
 minutes.
 
+FReePG is not intended as a system for creating long, ongoing campaigns; 
+instead it is designed to be fun for an ad-hoc group of players who want 
+to quickly put together some characters and spend an hour or two 
+exploring and fighting enemies. As such, there is no leveling of 
+characters to worry about. Even if a player chooses to use the same 
+character for multiple sessions, that character will begin the game as 
+though it were a new character for the purposes of calculating bonuses, 
+starting money and any magic items or skill bonuses.
+
 Although FReePG is freely available, the reason the word "free" is part 
 of the title is that the system frees the players (and the GM) to use 
 their imaginations and participate in the telling of a story in whatever 
