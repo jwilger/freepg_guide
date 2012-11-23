@@ -14,6 +14,10 @@ the supported conversion formats).
 The updating and printing is managed by [Rake][Rake], so both it and
 [Ruby][Ruby] ~> 1.9.3 are required.
 
+The conversion from Markdown is done by [pandoc][pandoc]. On OSX systems 
+with [Homebrew][Homebrew], you can install pandoc with `brew install 
+pandoc`.
+
 ### Supported Formats ###
 
 * PDF (`rake pdf`)
@@ -24,13 +28,10 @@ To generate the guide in all supported formats, run `rake all`.
 
 ### PDF Version ###
 
-The conversion from Markdown to PDF is done by
-[pandoc](http://johnmacfarlane.net/pandoc/).
-
-In order for pandoc to create PDF files, you need a working LaTeX installation
-(in particular, `pdflatex` must be on your PATH). On OSX machines, you can get
-this from [MacTex][MacTex] (note that you will have to add `/usr/texbin` to
-your `$PATH`.)
+In order for pandoc to create PDF files, you need a working LaTeX 
+installation (in particular, `pdflatex` must be on your PATH). On OSX 
+machines, you can get this from [MacTex][MacTex] (note that you will 
+have to add `/usr/texbin` to your `$PATH`.)
 
 [Markdown]: http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html "Pandoc's Markdown Format"
 
@@ -41,3 +42,5 @@ your `$PATH`.)
 [Ruby]: http://ruby-lang.org
 
 [MacTex]: http://www.tug.org/mactex/index.html
+
+[Homebrew]: http://mxcl.github.com/homebrew/
