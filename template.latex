@@ -132,7 +132,7 @@ $endfor$
 \maketitle
 \cleardoublepage
 \pagenumbering{roman}
-\hypersetup{linkcolor=black}
+\hypersetup{linkcolor=blue}
 \tableofcontents
 \pagestyle{empty}
 \cleardoublepage
