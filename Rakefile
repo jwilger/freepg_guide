@@ -1,7 +1,7 @@
 desc "Create PDF version of FReePG Guide"
 task :pdf => :output_dir do
   files = Dir.glob('en/**/*.md').sort
-  sh "pandoc --toc --chapters -o output/FReePG_Guide.pdf #{files.join(" ")}"
+  sh "pandoc --toc --chapters --template template.latex -o output/FReePG_Guide.pdf #{files.join(" ")}"
 end
 
 desc "Create EPUB version of FReePG Guide"
