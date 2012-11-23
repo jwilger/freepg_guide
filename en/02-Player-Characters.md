@@ -55,10 +55,21 @@ by 2. Round the result down to the nearest whole number (thus a roll of
 Have each player calculate their health points and write the number on 
 their character card, for example:
 
-  Max Health: 62
+    Max Health: 62
 
 See the section on [Character Death](#character-death) to find out what 
 happens when a character loses all of their health points.
+
+### Skill Bonus ###
+
+Each character gets a single +5 bonus to any skill of their choice. See 
+the section on [Player Skills](#player-skills) for information on 
+choosing skills. Have the player write this skill bonus on their 
+character card, e.g.:
+
+    Jumping Really Far: +5
+
+![Sample Completed Character Card](en/02-Player-Characters/Sample-Character-Card.pdf)
 
 ## Character Death ##
 
@@ -70,10 +81,10 @@ healed to greater than 0 health points, the character is dead.
 
 But hey, death isn't very fun, right? Don't worry, all is not lost. When 
 a character dies, they are resurrected at the nearest portal (see the 
-[Terrain Features](#terrain-features) section of the [Mapping and 
-Exploration](#mapping-and-exploration) chapter for more information on 
-portals) or, if no portals have yet been discovered, at the starting 
-point of the adventure.
+[Terrain Features](#terrain-features) section of the 
+[Movement](#movement) chapter for more information on portals) or, if no 
+portals have yet been discovered, at the starting point of the 
+adventure.
 
 The resurrected character starts out without any of their equipment or 
 treasure, but they can get their treasure back by returning to the 
