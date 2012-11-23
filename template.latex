@@ -125,27 +125,22 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-$if(title)$
 \title{$title$}
-$endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 \date{$date$}
 
 \begin{document}
-$if(title)$
+\pagestyle{empty}
 \maketitle
-$endif$
-
-$for(include-before)$
-$include-before$
-
-$endfor$
-$if(toc)$
-{
+\cleardoublepage
+\pagenumbering{roman}
 \hypersetup{linkcolor=black}
 \tableofcontents
-}
-$endif$
+\pagestyle{empty}
+\cleardoublepage
+\setcounter{page}{1}
+\pagestyle{headings}
+\pagenumbering{arabic}
 $body$
 
 $if(natbib)$
