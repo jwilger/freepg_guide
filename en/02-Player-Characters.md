@@ -57,7 +57,10 @@ their character card, for example:
 
   Max Health: 62
 
-#### Character Death ####
+See the section on [Character Death](#character-death) to find out what 
+happens when a character loses all of their health points.
+
+## Character Death ##
 
 When a character loses all of their health points, they are unconscious 
 and dying, and they cannot take any actions on their turn. If one full 
