@@ -1,4 +1,4 @@
-\documentclass[letterpaper,11pt,twoside,titlepage]{book}
+\documentclass[letterpaper,11pt,twoside,openright,titlepage]{book}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -31,7 +31,7 @@ $if(mathfont)$
     \setmathfont{$mathfont$}
 $endif$
 \fi
-\usepackage[letterpaper]{geometry}
+\usepackage[letterpaper,lmargin=1.5in,rmargin=1in]{geometry}
 $if(natbib)$
 \usepackage{natbib}
 \bibliographystyle{plainnat}
