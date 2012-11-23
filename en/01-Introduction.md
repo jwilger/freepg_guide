@@ -17,7 +17,9 @@ FReePG is a table-top role-playing game system designed to be fun for both new
 and experienced gamers. In particular, it is intended to be a great way to
 introduce children to the fun and imaginative world of RPGs (Role-playing
 Games) without requiring them to memorize and understand large and complicated
-sets of rules.
+sets of rules. In fact, the only person who really needs to read the 
+rules for the game is the Game Master (GM) who will be running the game 
+for the players.
 
 
 
