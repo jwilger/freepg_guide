@@ -19,7 +19,7 @@ that its a character the player wants to play. Have each player write
 the name of the character along the top of the index card and a short 
 description of the character on the line below.
 
-![Sample Completed Character Card](Sample-Character-Card.png)
+![Sample Completed Character Card](02-Player-Characters/Sample-Character-Card.png)
 
 ### Base Speed ###
 

@@ -4,7 +4,7 @@ files.unshift('en/title.txt')
 
 desc "Create PDF version of FReePG Guide"
 task :pdf => :output_dir do
-  sh "pandoc -S --toc --chapters --template template.latex -o output/FReePG_Guide.pdf #{files.join(" ")}"
+  sh "cd en pandoc -S --toc --chapters --template ../template.latex -o ../output/FReePG_Guide.pdf #{files.join(" ")}"
 end
 
 desc "Create EPUB version of FReePG Guide"

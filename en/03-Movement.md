@@ -12,7 +12,7 @@ height as well as area on the map. Vertical movement is also counted as
 one square per five feet. No distinction is made between diagonal 
 movement vs. movement along the rank and file of the battle map.
 
-![Basic Grid Example](Basic-Grid-Example.png)
+![Basic Grid Example](03-Movement/Basic-Grid-Example.png)
 
 Walk
   : The character moves a number of squares equal to their current
