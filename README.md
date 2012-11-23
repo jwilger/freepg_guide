@@ -20,6 +20,10 @@ pandoc`.
 
 ### Supported Formats ###
 
+Although pandoc supports conversion to numerous formats, only the 
+following formats have been tested with this guide and are supported by 
+the included Rake tasks:
+
 * PDF (`rake pdf`)
 
 * EPUB (`rake epub`)
