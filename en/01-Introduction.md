@@ -36,8 +36,3 @@ loot. Although this guide is intended for the GM, there's no reason your
 players shouldn't read it as well if they are interested. However, 
 players are not required to read the guide prior to playing; the GM can 
 simply walk them through the rules of the game during play.
-
-[^Repo]: FReePG Guide source on GitHub -- 
-[http://github.com/jwilger/freepg_guide][Repo]
-
-[Repo]: http://github.com/jwilger/freepg_guide

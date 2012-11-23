@@ -21,8 +21,8 @@ In order to play a FReePG game, you need only a few materials:
   one for the GM.
 
 * **Character Tokens** for each player character. Miniatures are 
-  available at most game or hobby shops. You can also make your own 
-  tokens[^NDMTCTP] if you have the patience and materials. Just ensure 
+  available at most game or hobby shops. You can also [make your own 
+  tokens][NDMTCTP] if you have the patience and materials. Just ensure 
   that, whatever you use, you can distinguish each character, the tokens 
   will fit withing a 1-inch square, and they are stable enough that they 
   won't fall over as other pieces are moved on the battle map.
@@ -40,9 +40,6 @@ In order to play a FReePG game, you need only a few materials:
 * **Imaginations** are, above all else, the most important part of the 
   game; every player and the GM must have one.
 
-
-[^NDMTCTP]: NewbieDM -- *Tutorial - Counters, Tokens, or Pogs* -- 
-[http://newbiedm.com/2008/11/22/newbiedm-tutorial-counters-tokens-or-pogs/][NDMTCTP]
 
 [NDMTCTP]: 
 http://newbiedm.com/2008/11/22/newbiedm-tutorial-counters-tokens-or-pogs/
