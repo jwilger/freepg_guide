@@ -2,6 +2,8 @@
 
 \pagestyle{plain}
 
+Copyright 2012&copy; John Wilger
+
 This work is licensed under the [Creative Commons Attribution-ShareAlike 
 3.0 Unported License][License].
 
