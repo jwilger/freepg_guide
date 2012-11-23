@@ -39,7 +39,8 @@ In order to play a FReePG game, you need only a few materials:
   game; every player and the GM must have one.
 
 
-[^NDMTCTP]: NewbieDM Tutorial - Counters, Tokens, or Pogs &ndash; 
+[^NDMTCTP]: NewbieDM &ndash; *Tutorial - Counters, Tokens, or Pogs* 
+&ndash; 
 [http://newbiedm.com/2008/11/22/newbiedm-tutorial-counters-tokens-or-pogs/][NDMTCTP]
 
 [NDMTCTP]: 
