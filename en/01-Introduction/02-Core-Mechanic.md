@@ -20,6 +20,10 @@ effect on another character (whether a player character or a non-player
 character), this will be done as an *opposed roll*, otherwise it is done 
 as a *skill check* roll.
 
+Regardless of the type of roll involved, a natural roll (the number on 
+the die before any bonus or penalty is applied) of 1 *always* fails, and 
+a natural roll of 20 *always* succeeds.
+
 ### Opposed Rolls ###
 
 When a character attempts an action that will have a negative effect on 
@@ -43,18 +47,21 @@ target* from the table below and ask the player for a d20 roll. If the
 character rolls a number equal to or greater than the difficulty target, 
 they succeed.
 
+#### Difficulty Targets ####
+
 Table: Difficulty Targets for Skill Check Rolls
 
   Target  Description
 --------  ------------------
-     1-7  Automatic Success
+     1-7  Easy
     8-12  Average
    13-16  Hard
    17-20  Very Hard
 
-Automatic Success
-  : Most people would pretty much always succeed at this, so don't even
-    bother with making the player roll.
+Easy difficulty
+  : Most people would pretty much always succeed at this, so unless the
+    character has some type of penalty being applied, it might not be 
+    worth having them roll at all.
 
 Average difficulty
   : An action of average difficulty could be achieved by most characters
