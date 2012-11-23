@@ -82,3 +82,13 @@ rolls, say, an 8, then his character fails to climb the wall. Because
 failing to climb a wall usually means falling (and because falling often 
 hurts) Boffin the Bold will take damage equal to the difficulty target 
 minus John's roll, i.e. `14 - 8 = 6` for 6 points of damage.
+
+### Bonuses and Penalties ###
+
+Various items throughout the game can either provide a bonus or enact a 
+penalty on a player's roll. See the chapter on [Combat](#combat) to 
+learn how weapons and armor affect combat rolls, the chapter on [Skill 
+Checks](#skill-checks) to learn how non-combat actions can be affected, 
+and the chapter on [Character Movement](#character-movement) to learn 
+how bonuses and penalties are applied to movement during a player's 
+turn.
