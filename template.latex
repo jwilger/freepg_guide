@@ -1,4 +1,4 @@
-\documentclass[letterpaper,11pt,twoside,openright,titlepage]{book}
+\documentclass[letterpaper,twoside,openright,titlepage]{book}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
