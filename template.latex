@@ -135,6 +135,7 @@ $endfor$
 \hypersetup{linkcolor=blue}
 \tableofcontents
 \listoftables
+\listoffigures
 \pagestyle{empty}
 \cleardoublepage
 \setcounter{page}{1}
