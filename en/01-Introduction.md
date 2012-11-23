@@ -13,9 +13,9 @@ for the players.
 While other RPG systems provide players with numerous options for their 
 characters' races, classes and powers (and then require the players to 
 remember how to use those things), FReePG has *limitless* possibilities 
-and&mdash;at the same time&mdash;greatly simplifies the rules such that 
-a brand new player can join the game and know all they need within just 
-a few minutes.
+and---at the same time---greatly simplifies the rules such that a brand 
+new player can join the game and know all they need within just a few 
+minutes.
 
 Although FReePG is freely available, the reason the word "free" is part 
 of the title is that the system frees the players (and the GM) to use 
@@ -37,7 +37,7 @@ players shouldn't read it as well if they are interested. However,
 players are not required to read the guide prior to playing; the GM can 
 simply walk them through the rules of the game during play.
 
-[^Repo]: FReePG Guide source on GitHub &ndash; 
+[^Repo]: FReePG Guide source on GitHub -- 
 [http://github.com/jwilger/freepg_guide][Repo]
 
 [Repo]: http://github.com/jwilger/freepg_guide
