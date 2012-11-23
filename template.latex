@@ -134,6 +134,7 @@ $endfor$
 \pagenumbering{roman}
 \hypersetup{linkcolor=blue}
 \tableofcontents
+\listoftables
 \pagestyle{empty}
 \cleardoublepage
 \setcounter{page}{1}
