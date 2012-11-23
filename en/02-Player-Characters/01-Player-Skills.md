@@ -71,7 +71,7 @@ Athletics            push open doors, move or throw heavy objects, bend
 Dungeoneering        avoid traps, detect secret doors, don't take
                      penalties from difficult terrain, etc.
 
-Perception           detect sneaking or hiding monsters, notice clues,
+Perception           detect sneaking or hiding enemies, notice clues,
                      etc.
 
 Stealth              sneak around enemies, remain hidden, avoid being

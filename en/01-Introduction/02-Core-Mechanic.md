@@ -12,7 +12,7 @@ and then let them try it. The less often you say "no", the more fun
 everyone will have.
 
 In many cases, you can just let the players do the thing they want to 
-do, but in some cases---such as fighting a monster or trying to scale a 
+do, but in some cases---such as fighting an enemy or trying to scale a 
 high wall---the rules of the game will come into play. Whenever a player 
 attempts an action that the GM feels should have some chance of failure, 
 the player must roll a 20-sided die. If the action would have a negative 

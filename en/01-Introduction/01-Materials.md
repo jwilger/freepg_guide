@@ -14,7 +14,7 @@ In order to play a FReePG game, you need only a few materials:
 * **Pencils** for each player and the Game Master.
 
 * **Index cards** - Each player will need an index card to track their 
-  character, and the GM will use index cards to track monsters and hand 
+  character, and the GM will use index cards to track enemies and hand 
   out treasure during the game.
 
 * **At least two 20-sided dice**, but preferably one for each player and 
