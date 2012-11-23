@@ -1,13 +1,15 @@
+files = Dir.glob('en/**/*.md').sort
+files.unshift('en/license.txt')
+files.unshift('en/title.txt')
+
 desc "Create PDF version of FReePG Guide"
 task :pdf => :output_dir do
-  files = Dir.glob('en/**/*.md').sort
   sh "pandoc --toc --chapters --template template.latex -o output/FReePG_Guide.pdf #{files.join(" ")}"
 end
 
 desc "Create EPUB version of FReePG Guide"
 task :epub => :output_dir do
-  files = Dir.glob('en/**/*.md').sort
-  sh "pandoc --chapters -o output/FReePG_Guide.epub #{files.join(" ")}"
+  sh "pandoc --epub-metadata=en/metadata.xml --chapters -o output/FReePG_Guide.epub #{files.join(" ")}"
 end
 
 desc "Create ALL versions of FReePG Guide"

@@ -1,0 +1,3 @@
+% FReePG Guide
+% Copyright &copy; 2012 John Wilger <johnwilger@gmail.com>
+% Version 1 Playtest Edition
