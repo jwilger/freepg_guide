@@ -3,7 +3,7 @@
 
 ## License ##
 
-\pagestyle{empty}
+\pagestyle{plain}
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 
 3.0 Unported License. To view a copy of this license, visit 
