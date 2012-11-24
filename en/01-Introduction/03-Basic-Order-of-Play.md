@@ -5,9 +5,9 @@ FReePG is easy to set up and run, all you need are the necessary
 characters and a Game Master to build the encounters). To start off, the 
 players must agree on what type of adventure they wish to play, be it a 
 dungeon crawl, infiltrating a wizard's tower, comic book style 
-superheroes defending a city, modern spies gathering intel on enemy 
-forces, or futuristic soldiers capturing an alien spacecraft; FReePG is 
-up to the task of supporting all of these.
+superheroes defending a city, modern spies gathering intelligence on 
+enemy forces, or futuristic soldiers capturing an alien spacecraft; 
+FReePG is up to the task of supporting all of these.
 
 Once the type of game is decided, the GM should help each player create 
 a character according to the rules in the [Player 
