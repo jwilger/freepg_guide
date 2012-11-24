@@ -64,7 +64,7 @@ Attack
 Mundane Actions
   : If it's not a move, and it doesn't require a skill check, but it
     does have a tangible effect on the game world, it's a mundane 
-    action. The GM can use their judgement to determine how much of what 
+    action. The GM can use their judgment to determine how much of what 
     a character wants to do could happen in a single turn, but keep in 
     mind that this is one action in either a 6-second combat round or a 
     one-minute exploration round.
