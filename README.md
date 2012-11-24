@@ -4,6 +4,12 @@ This repository contains the source files for the **FReePG Guide**, a guide to
 running and playing in a simple, table-top role-playing game suitable for both
 young children and anyone who is still a child at heart.
 
+## Downloading the Guidebook ##
+
+Pre-compiled versions of the FReePG Guide are available from the 
+[downloads page][Downloads]. Both official releases and occasional 
+development snapshots are available in PDF and EPUB formats.
+
 ## Generating the Guidebook ##
 
 Although the text-based source is written in [Markdown][Markdown] format and
@@ -48,3 +54,5 @@ have to add `/usr/texbin` to your `$PATH`.)
 [MacTex]: http://www.tug.org/mactex/index.html
 
 [Homebrew]: http://mxcl.github.com/homebrew/
+
+[Downloads]: https://github.com/jwilger/freepg_guide/downloads
