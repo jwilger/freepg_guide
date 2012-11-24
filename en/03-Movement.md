@@ -12,37 +12,14 @@ height as well as area on the map. Vertical movement is also counted as
 one square per five feet. No distinction is made between diagonal 
 movement vs. movement along the rank and file of the battle map.
 
+In the *Basic Grid Example* figure, assuming there are no terrain 
+features that would otherwise inhibit movement in any direction, a 
+character starting on square A can reach squares B, C, D and all squares 
+in between within two squares of movement. This is true regardless of 
+whether you consider the grid to be a horizontal or a vertical plane; if 
+the bottom of the grid represents the ground and square A is 20 feet 
+above the ground, a flying character could move to any of the same 
+squares using two squares of their movement.
+
 ![Basic Grid Example](03-Movement/Basic-Grid-Example.png)
 
-Walk
-  : The character moves a number of squares equal to their current
-    speed (base speed adjusted for bonuses and/or penalties).
-
-Run
-  : The character moves up to two squares beyond their walking speed,
-    but they take a -2 penalty to all die rolls until the beginning of 
-    their next turn.
-
-Shift
-  : The character can carefully move one square without being subject to
-    opportunity attacks (see the [Combat](#combat) chapter for more on 
-    opportunity attacks).
-
-Fly
-  : The character moves a number of squares equal to their current fly
-    speed (base fly speed adjusted for bonuses and/or penalties). One 
-    square of movement is also used for each 5 feet of elevation change. 
-    If the character is not standing on a horizontal surface at the end 
-    of their turn, they must succeed at a dt-10 skill check to avoid 
-    falling. In addition, strong wind may effect their final position 
-    (see [Terrain Features](#terrain-features) below).
-
-Swim
-  : A character can swim through water at their walk speed, however, the
-    current may effect their final position (see [Terrain 
-    Featurs](#terrain-features) below).
-
-Stand
-  : A character that is sitting or laying prone must spend an action on
-    their turn to stand up before they are able to move from their 
-    current square.

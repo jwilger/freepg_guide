@@ -4,6 +4,7 @@ This is the list of chapters and subsections yet to be written for this
 guide:
 
 * [Combat](#combat)
-* [Movement](#movement)
-    * [Terrain Features](#terrain-features)
+* [Building Encounters](#building-encounters)
+    * [Traps](#traps)
 * [Loot](#loot)
+    * [Going to Town](#going-to-town)
