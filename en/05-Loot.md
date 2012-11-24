@@ -36,6 +36,62 @@ Table: Random Loot Table
         19  1 item with a +4 enhancement
         20  1 item with a +5 enhancement
 
+## Item Enhancements ##
+
+Items found as loot or purchased in town can have an enhancement bonus. 
+These bonuses most commonly affect combat by providing an attack, 
+damage, defense or armor bonus. Other items might provide a skill bonus 
+or a speed bonus. The maximum enhancement bonus on an item is +5.
+
+Each character has a number of "slots" where enhanced items can be 
+equipped:
+
+Head Slot
+  : Helmets, crowns, visors, masks, etc.
+
+  : Provides bonus to knowledge and/or perception skill checks
+
+Neck Slot
+  : Pendants, collars, capes, etc.
+
+  : Provides a defense bonus (see [Combat](#combat).
+
+Armor Slot
+  : Pretty much any type of armor or clothing that the character is
+    wearing.
+
+  : Provides a character's armor bonus (see [Combat](#combat)).
+
+Hands/Arms Slot
+  : Gauntlets, gloves, rings, etc.
+
+  : Provides a damage bonus (see [Combat](#combat))
+
+Belt Slot
+  : Belts, sashes, etc.
+
+  : Provides a bonus to physical skill checks
+
+Feet Slot
+  : Shoes, boots, sandals, etc.
+
+  : Provides a bonus to walking or flying speed and/or a bonus to
+    stealth or acrobatics skill checks.
+
+Weapon Slot
+  : Anything that can be used during a characters turn to inflict damage
+    on an enemy.
+
+  : Provides a bonus to attack rolls
+
+Each slot can have only one item equipped, although the character could 
+have any number of items in their possession. Only equipped items 
+provide a bonus. With the exception of swapping weapons, swapping one 
+item for another requires the use of one of the character's actions (a 
+*Mundane Action*) on their turn. (See [Basic Order of 
+Play](#basic-order-of-play) in the [Introduction](#introduction) chapter 
+for more information on turn actions.)
+
 ## Going to Town ##
 
 In addition to finding enhanced items while looting encounter areas, 
