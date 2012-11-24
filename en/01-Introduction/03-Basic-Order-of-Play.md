@@ -69,6 +69,11 @@ Mundane Actions
     mind that this is one action in either a 6-second combat round or a 
     one-minute exploration round.
 
+  : In particular, it takes one mundane action for a character to swap
+    out an item in on of their item slots. See [Item 
+    Enhancements](#item-enhancements) in the [Loot](#loot) chapter for 
+    more information on enhancement slots.
+
 Free Actions
   : **Special:** a character can speak a few sentences or swap weapons
     once during their turn without expending one of their actions. 
