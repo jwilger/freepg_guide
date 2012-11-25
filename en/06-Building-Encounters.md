@@ -128,7 +128,42 @@ would apply to the replaced enemy will apply to each of the minions.
 ## Traps ##
 
 Traps are similar to enemies, because they also attack and damage 
-characters who trigger them. As such, placing
+characters who trigger them. As such, placing a trap in an encounter 
+area replaces one enemy creature in the encounter.
+
+Traps can be either single-fire or continuous. A single fire trap 
+attacks once when it is triggered and gets a +5 bonus to its damage 
+score. A continuous trap attacks once when it is triggered, and it 
+attacks once per round on the GM's turn.
+
+Depending on whether the trap replaces a small, medium or large 
+creature, it will have different difficulty targets for detection and 
+disabling.
+
+Small Trap
+  : dt-12 to detect, dt-12 to disable
+
+Medium Trap
+  : dt-15 to detect, dt-15 to disable
+
+Large Trap
+  : dt-17 to detect, dt-17 to disable
+
+A continuous trap may not attack every round. For instance, if the 
+characters trigger a trap that makes the ceiling and floor start to move 
+toward each other, the trap will not actually *attack* the characters 
+until the two surfaces are close enough to crush the characters. Such a 
+trap receives a +2 attack bonus for each turn that it acts without 
+attacking the characters. If it takes five rounds for the ceiling to 
+begin crushing the players, it would have accumulated a +10 attack 
+bonus.
+
+A traps attacks are treated as if the trap were making a normal attack 
+as an enemy in the square that triggered the trap. All the same rules 
+for range and area attacks apply. In the crushing-ceiling example, this
+means that the attack would get sread over the area of the entire room 
+(assuming the entire ceiling and/or floor were moving.
+
 Table: Random Terrain Features
 
   Die Roll  Terrain Features
