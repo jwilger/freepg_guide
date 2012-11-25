@@ -128,6 +128,7 @@ $endfor$
 \date{$date$}
 
 \begin{document}
+\raggedbottom
 \pagestyle{empty}
 \maketitle
 \cleardoublepage
